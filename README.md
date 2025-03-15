@@ -4,9 +4,6 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,typescript,react,python,c,cpp,go,flask,git,github,vscode,ruby,rails,docker,aws" />
 
 
-### Status
-
-
 <!--
 **Raychel-310/Raychel-310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
