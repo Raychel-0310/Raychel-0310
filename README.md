@@ -6,12 +6,6 @@
 
 ### Status
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raychel-0310&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)<br>
-
-<img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raychel-0310&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> <img alt="github stats" height="150" src="https://github-readme-stats.vercel.app/api?username=Raychel-0310&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-
-[![github-chart](https://github-chart.vercel.app/api?user=Raychel-0310)](https://github.com/Raychel-0310/github-chart)
-
 
 <!--
 **Raychel-310/Raychel-310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
