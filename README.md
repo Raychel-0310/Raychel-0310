@@ -12,12 +12,8 @@
 
 ### OSS Insight
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=197886946" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=197886946&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Raychel-0310" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=197886946&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+[![Dashboard stats of @Raychel-0310](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=197886946&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=197886946)
+
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raychel-0310&repo=qiita)](https://github.com/Raychel-0310/qiita)
 
