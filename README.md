@@ -16,17 +16,6 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raychel-0310&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raychel-0310&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Raychel-0310&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-### OSS Insight
-
-[![Dashboard stats of @Raychel-0310](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=197886946&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=197886946)
-
-
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raychel-0310&repo=qiita)](https://github.com/Raychel-0310/qiita)
-
-
 <!--
 **Raychel-310/Raychel-310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
