@@ -3,10 +3,6 @@
 <img alt="SNQ-2001" src="header.svg?" width="98.4%" height="100%"><br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raychel-0310&theme=2077)
 
-<div align='center'>
-
-[![typograssy](https://typograssy.deno.dev/api?text=DRINKNG%20COFFEE,%20EATING%20KNOWLEDGE%20%20&frame=cccccc&comment=%F0%9F%92%95Generated%20by%20kawarimidoll/typograssy%F0%9F%92%95)](https://github.com/kawarimidoll/typograssy)
-
 ### Programming Languages, Frameworks, and Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,typescript,react,python,c,cpp,go,flask,git,github,vscode,ruby,rails,docker,aws,postman,latex" />
 
