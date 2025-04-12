@@ -3,7 +3,7 @@
 ### Programming Languages, Frameworks, and Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,typescript,react,python,c,cpp,go,flask,git,github,vscode,ruby,rails,docker,aws,postman,latex" />
 
-https://github-readme-stats.vercel.app/api/pin/?username=qiita&repo=Raychel-0310
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raychel-0310&repo=qiita)](https://github.com/Raychel-0310/qiita)
 
 
 <!--
