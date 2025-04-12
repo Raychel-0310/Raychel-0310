@@ -10,6 +10,17 @@
 ### Programming Languages, Frameworks, and Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,typescript,react,python,c,cpp,go,flask,git,github,vscode,ruby,rails,docker,aws,postman,latex" />
 
+### OSS Insight
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8683947" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @yutkat" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Raychel-0310&repo=qiita)](https://github.com/Raychel-0310/qiita)
 
 
