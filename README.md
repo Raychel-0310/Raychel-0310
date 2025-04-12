@@ -1,7 +1,8 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raychel-0310&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Programming Languages, Frameworks, and Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,typescript,react,python,c,cpp,go,flask,git,github,vscode,ruby,rails,docker,aws,postman,latex" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=html,css,typescript,react,python,c,cpp,go,flask,git,github,vscode,ruby,rails,docker,aws,postman,latex" />
+
 
 ### Languages
 
