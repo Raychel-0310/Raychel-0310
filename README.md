@@ -10,6 +10,12 @@
 ### Programming Languages, Frameworks, and Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,typescript,react,python,c,cpp,go,flask,git,github,vscode,ruby,rails,docker,aws,postman,latex" />
 
+### Languages
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raychel-0310&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raychel-0310&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raychel-0310&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### OSS Insight
 
 [![Dashboard stats of @Raychel-0310](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=197886946&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=197886946)
